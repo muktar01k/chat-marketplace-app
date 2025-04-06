@@ -26,6 +26,18 @@ If you have any questions, suggestions, or if you want to collaborate on this pr
 - **GitHub Profile**: [github.com/muktar01k]
 
 
+  ## Tech Stack
+- React
+- Tailwind CSS
+
+## How to Contribute
+1. Fork the repository.
+2. Clone your fork to your local machine.
+3. Install dependencies using `npm install`.
+4. Create a new branch for your feature.
+5. Submit a pull request!
+
+
 ### Contributors
 
 If you'd like to contribute to this project or join the development, you're welcome to fork the repository and create a pull request with your proposed changes.
